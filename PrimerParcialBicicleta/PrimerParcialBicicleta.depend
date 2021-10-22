@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1634736594 source:c:\users\franc\desktop\utn\programación\primerparcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634760111 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"color.h"
+	"menu.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1634762988 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1634756706 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"tipo.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\tipo.h
+
+1634756728 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"servicio.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\servicio.h
+
+1634756738 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\color.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"color.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\color.h
+
+1634765099 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+
+1634768310 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\menu.h
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.h
+	"servicio.h"
+	"bicicleta.h"
+
+1634763569 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"bicicleta.h"
+	"servicio.h"
+
+1634757129 source:c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"trabajo.h"
+	"validaciones.h"
+
+1634768309 c:\users\franc\desktop\parcial subiendo\disanto.franco.lab1.1a\primerparcialbicicleta\validaciones.h
+
